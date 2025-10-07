@@ -5,7 +5,7 @@ The math of minawan determination has led to the research in all powers of 11, w
 
 I'm really, *really* into numbers and I loved messing around with them and got to do so even more now that I learned about tetration and could do some simple programming for big numbers. This project is all about getting to higher and higher numbers.
 
-The _**minanumbers**_, as I like to call it (and first coined by captainofindustry1060, known as Clippywan), is a project of mine that seeks to find these massive **WANWAN** values! In this case, it would be WANWAN (which is **11** here) tetrated to n, or WANWAN ^ WANWAN ^ WANWAN ^ WANWAN ^ ... ^ WANWAN (n times), or simply written as **ⁿWANWAN**.
+The _**minanumbers**_, as I like to call it (and first coined by captainofindustry1060, known as Clippywan), is a project of mine that seeks to find these massive **WANWAN** values! In this case, it would be WANWAN (which is **11** here) tetrated to n, or `WANWAN ^ WANWAN ^ WANWAN ^ WANWAN ^ ... ^ WANWAN (n times)`, or simply written as **ⁿWANWAN**.
 
 > This section is now outdated. **_Minanumbers_** refer to all powers of WANWAN.
 
@@ -16,11 +16,11 @@ This is mainly a hobby of mine, so I can come back to this and leave it be as mu
 The numbering system is a bit confusing, I know.
 
 All minanumbers could be found in [**All Powers**](https://github.com/SebazcanHernandes/Minanumbers/tree/main/All%20Powers). A Subset of minanumbers could be found in [**All Hyperpowers**](https://github.com/SebazcanHernandes/Minanumbers/tree/main/All%20Hyperpowers), which are the results of tetrating WANWAN, named the nth-degree minanumbers.
-- Folders in **All Powers** are sets of 100 values. Each number in each filename corresponds to the n in WANWAN ^ n. Only WANWAN ^ 0 is isolated.
-- Numbering in the main **All Hyperpowers** folder corresponds to the n in WANWAN ^^ n (WANWAN tetrated to n).
+- Folders in **All Powers** are sets of 100 values. Each number in each filename corresponds to the n in `WANWAN ^ n`. Only `WANWAN ^ 0` is isolated.
+- Numbering in the main **All Hyperpowers** folder corresponds to the n in `WANWAN ^^ n` (ⁿWANWAN, WANWAN tetrated to n).
 - A folder in **All Hyperpowers** named **Pre-degrees** has subfolders of its own.
   - Subfolders are numbered `a-(a+1)`, corresponding to the hyperexponents. They carry the values from ᵃWANWAN to ᵃ⁺¹WANWAN, showing the progress in calculations.
-  - Files in these subfolders have files from 01 to 11, corresponding to the n WANWAN ^ WANWAN ^ ... ^ WANWAN (a times) ^ n.
+  - Files in these subfolders have files from 01 to 11, corresponding to the n of `WANWAN ^ WANWAN ^ ... ^ WANWAN (a times) ^ n`.
     - Hopefully that ain't confusing.
 
 ## Trivia
