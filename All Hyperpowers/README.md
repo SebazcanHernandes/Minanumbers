@@ -1,6 +1,5 @@
 # nth-degree Minanumbers
 
-<<<<<<< HEAD
 This directory serves as the library of all hyperpowers of WANWAN, dubbed as the Completel List of nth-degree Minanumbers.
 
 - Numbering in the main **All Hyperpowers** folder corresponds to the n in `WANWAN ^^ n` (ⁿWANWAN, WANWAN tetrated to n).
@@ -27,5 +26,3 @@ This directory serves as the library of all hyperpowers of WANWAN, dubbed as the
 
 - The term nth-degree minanumbers was first created by Subwan (me) when minanumbers were still not broaden to powers of WANWAN.
 - The shorthand notation for these numbers is **mina_n_**, where n is the hyperexponent.
-
->>>>>>> 1872a4fe2cd03af5d11f33ff01711a2e4de3bed0
